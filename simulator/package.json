@@ -1,0 +1,9 @@
+{
+  "name": "simulator",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "rfidSimulator.js",
+  "scripts": {
+    "start": "node rfidSimulator.js"
+  }
+}
